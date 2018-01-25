@@ -1,2 +1,2 @@
 # async-await-js
-simple application using async and await 
+simple examples of using async functions and await 
